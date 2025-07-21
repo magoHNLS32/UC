@@ -1,2 +1,2 @@
-# UC
+Univercidad Ciudadana 
 codigo
